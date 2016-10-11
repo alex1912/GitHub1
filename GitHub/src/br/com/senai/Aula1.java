@@ -13,7 +13,7 @@ public class Aula1 {
 	}
 	
 	static void trocaMsg(){
-		msg = JOptionPane.showInputDialog("Entre com uma nova mensagem ");
+		msg = JOptionPane.showInputDialog("Matheus Viadin ");
 	}
 
 }
